@@ -17,7 +17,7 @@
 
 ## Sobre mim
 
-Ola, me chamo Gabriel e esse é meu espaço de projetos.
+Ola, me chamo Gabriel e esse é meu espaço de projetos. Atualmente sou QA e estou sempre em busca de aprender novas coisas. 
 
 ---
 
