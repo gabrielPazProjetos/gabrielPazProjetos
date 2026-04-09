@@ -7,8 +7,6 @@
 ╚═════╝ ╚══════╝╚═╝     ╚═╝      ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝ 
 ```
 
-
-
 <div align="center">
 
 ## ────────────────  MEU PERFIL  ────────────────
@@ -36,7 +34,7 @@ Ola, me chamo Gabriel e esse é meu espaço de projetos.
 * Containers e Orquestração (Docker, Kubernetes)
 * Inteligência Artificial e IA Generativa
 * Banco de Dados SQL e NoSQL
-* Testes (TDD, QA manual e automatizado)
+* Testes (QA manual e automatizado)
 * Desenvolvimento Mobile (Kotlin)
 * UI/UX e Prototipação (Figma)
 
