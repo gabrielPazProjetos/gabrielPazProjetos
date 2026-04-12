@@ -52,8 +52,8 @@ Ola, me chamo Gabriel e esse é meu espaço de projetos. Atualmente sou QA e est
 
 ```
 +--------------------------------------------------+
-| Projetos desenvolvidos:        +100               |
-| Linguagens exploradas:         múltiplas          |
-| Foco atual:                    QA                 |
+| Projetos desenvolvidos:        +100              |
+| Linguagens exploradas:         múltiplas         |
+| Foco atual:                    QA                |
 +--------------------------------------------------+
 ```
