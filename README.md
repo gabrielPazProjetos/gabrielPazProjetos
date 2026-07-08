@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <pre>
@@ -18,22 +17,33 @@
 
 </div>
 
+---
 
 <div align="center">
 
-## ────────────────  MEU PERFIL  ────────────────
+## **MEU PERFIL**
 
 </div>
 
 ---
+
 <div align="center">
-Sobre mim
+
+## **SOBRE MIM**
+
 </div>
-Ola, me chamo Gabriel e esse é meu espaço para projetos pessoais/protfolio. Atualmente sou QA e estou sempre em busca de aprender novas coisas. 
+
+Olá, me chamo **Gabriel** e esse é meu espaço para projetos pessoais/portfólio.  
+Atualmente sou **QA** e estou sempre em busca de aprender novas coisas. 
 
 ---
 
-## Áreas de atuação
+<div align="center">
+
+## **ÁREAS DE ATUAÇÃO**
+
+</div>
+
 
 ```
 ┌───────────────────────────────────────────────┐
