@@ -17,43 +17,22 @@
 
 ## Sobre mim
 
-Ola, me chamo Gabriel e esse é meu espaço de projetos. Atualmente sou QA e estou sempre em busca de aprender novas coisas. 
+Ola, me chamo Gabriel e esse é meu espaço para projetos pessoais/protfolio. Atualmente sou QA e estou sempre em busca de aprender novas coisas. 
 
 ---
 
 ## Áreas de atuação
 
 ```
-┌────────────────────────────────────────────────────────────────┐
-│ Backend | Frontend | Cloud | DevOps | QA | Mobile | IA | Dados │
-└────────────────────────────────────────────────────────────────┘
-```
-
-* Desenvolvimento de APIs (FastAPI, Node, Java, C#)
-* Cloud Computing (AWS, Azure)
-* Containers e Orquestração (Docker, Kubernetes)
-* Inteligência Artificial e IA Generativa
-* Banco de Dados SQL e NoSQL
-* Testes (QA manual e automatizado)
-* Desenvolvimento Mobile (Kotlin)
-* UI/UX e Prototipação (Figma)
-
-## Filosofia
+┌───────────────────────────────────────────────┐
+│ Backend (Java, Python, C) | QA | SQL | JSON   │
+└───────────────────────────────────────────────┘
 
 ```
-> Aprender construindo
-> Estudos  
-> Evoluir sempre
-```
 
----
-
-## Estatísticas
-
-```
-+--------------------------------------------------+
-| Projetos desenvolvidos:        +100              |
-| Linguagens exploradas:         múltiplas         |
-| Foco atual:                    QA                |
-+--------------------------------------------------+
-```
+* Desenvolvimento de APIs (Java, Python, C)
+* Manipulação de dados com SQL
+* Estruturação e tratamento de dados em JSON
+* Qualidade de software (QA manual e automatizado)
+* Testes de Frontend e Backend
+* Automação de testes de Frontend, Backend e APIs
