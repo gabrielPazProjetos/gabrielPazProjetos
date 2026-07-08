@@ -26,9 +26,9 @@
 </div>
 
 ---
-
+<div align="center">
 ## Sobre mim
-
+</div>
 Ola, me chamo Gabriel e esse é meu espaço para projetos pessoais/protfolio. Atualmente sou QA e estou sempre em busca de aprender novas coisas. 
 
 ---
